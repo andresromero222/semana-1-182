@@ -1,0 +1,23 @@
+
+/* News */
+
+.new-imge{
+    align-items: center;
+}
+
+.paragraph{
+    text-align: center;
+}
+
+.NewData{
+    align-items: center;
+    display: inline-flex;
+    width: 49%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
