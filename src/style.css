@@ -1,24 +1,29 @@
 /* Header */
 .header{
     background-color:white;
-       
+    margin-bottom: 30px;
+    width: 1200px;
 }
 
 .body{
     font-family: sans-serif;
     width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .barra-superior{
     display: flex;
     align-items: center;
-    height: 100px;
-    background-color: rgba(34, 69, 224, 0.774);
-    
+    height: 60px;
+    background-color: #00CD98;  
 }
 
 .titulo-principal, .contenedor-menu{
     width: 50%;
-    
+    color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-indent: 30px;
 }
 
 .menu-principal{
@@ -29,11 +34,15 @@
 }
 
 .menu-principal_item>a:hover{
-    font-size: 40px;
+    font-size: 18px;
     text-decoration: underline;
-    display: flex;
-    list-style: none;
-    justify-content: space-evenly;
+    
+}
+
+.menu-principal_item >a{
+    text-decoration: none;
+    color:whitesmoke;
+    font-family: sans-serif;
 }
 
 .banner{
@@ -43,6 +52,10 @@
 }
 
 .banner_titulo{
-    position: absolute;
-    color: rgb(170, 80, 80);
+    position: absolute; height: 480px;
+    font-style: normal;
+    color:#00CD98;    
+    font-size: 35px;
+    font-family: sans-serif;
+    
 }
