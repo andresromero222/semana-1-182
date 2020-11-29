@@ -1,0 +1,46 @@
+
+.Servicios .Tapiz{
+    height: 500px;
+    background-color: rgb(83, 81, 81);
+}
+
+.Servicios .Seccion{
+    width: 32% ;
+    height: 480px;
+    background-color: rgb(38, 41, 92);
+    display: inline-table;
+    padding: 0px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Calibri';
+}
+
+.Servicios .Servicio1{
+    background: url("img/frontend.jpg") center;
+    min-height: 200px;
+}
+
+.Servicios .Servicio2{
+    background: url("img/backend.jpg") center;
+    min-height: 200px;
+}
+
+.Servicios .Servicio3{
+    background: url("img/database.jpg") center;
+    min-height: 200px;
+}
+
+.Servicios .Subtitulo{
+    padding: -10px;
+    bottom: 0;
+}
+
+.Servicios .Texto{
+    padding: -20px;
+    margin: 10px;
+    text-align: justify;
+}
+
+
+
