@@ -1,0 +1,48 @@
+/* Header */
+.header{
+    background-color:white;
+       
+}
+
+.body{
+    font-family: sans-serif;
+    width: 1200px;
+}
+.barra-superior{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    background-color: rgba(34, 69, 224, 0.774);
+    
+}
+
+.titulo-principal, .contenedor-menu{
+    width: 50%;
+    
+}
+
+.menu-principal{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.menu-principal_item>a:hover{
+    font-size: 40px;
+    text-decoration: underline;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner_titulo{
+    position: absolute;
+    color: rgb(170, 80, 80);
+}
