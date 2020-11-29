@@ -1,1 +1,13 @@
-.
+.footer{
+    display: flex;
+    background-color: grey;
+    
+}
+.footer-container{
+    padding: 20px;
+    color:gainsboro;
+    max-width: 600px;
+}
+.white{
+    color:white;
+}
