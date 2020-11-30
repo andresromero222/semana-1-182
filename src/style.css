@@ -1,3 +1,25 @@
+
+/* News */
+.new-imge{
+    align-items: center;
+}
+
+.paragraph{
+    text-align: center;
+}
+
+.NewData{
+    align-items: center;
+    display: inline-flex;
+    width: 49%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 /* Header */
 .header{
     background-color:white;
@@ -52,10 +74,25 @@
 }
 
 .banner_titulo{
+
     position: absolute; height: 480px;
     font-style: normal;
     color:#00CD98;    
     font-size: 35px;
     font-family: sans-serif;
     
+}
+
+.footer{
+    display: flex;
+    background-color: grey;
+    
+}
+.footer-container{
+    padding: 20px;
+    color:gainsboro;
+    max-width: 600px;
+}
+.white{
+    color:white;
 }
