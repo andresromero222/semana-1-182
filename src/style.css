@@ -139,3 +139,11 @@
     margin: 10px;
     text-align: justify;
 }
+.col-5{
+    width: 19%;
+    height: 470px;
+    display: inline-block;
+    margin: 5px 4px 0;
+    text-align: center;
+    background-color: rgb(255, 177, 148);
+}
