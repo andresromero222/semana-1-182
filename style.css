@@ -17,17 +17,17 @@
 }
 
 .Servicios .Servicio1{
-    background: url("img/frontend.jpg") center;
+    background: url("img/frontend1.jpg") center;
     min-height: 200px;
 }
 
 .Servicios .Servicio2{
-    background: url("img/backend.jpg") center;
+    background: url("img/backend1.jpg") center;
     min-height: 200px;
 }
 
 .Servicios .Servicio3{
-    background: url("img/database.jpg") center;
+    background: url("img/database1.jpg") center;
     min-height: 200px;
 }
 
