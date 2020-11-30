@@ -145,5 +145,20 @@
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: rgb(255, 177, 148);
+    background-color: rgb(148, 234, 255);
+}
+.section-3{
+    height: 500px;
+    background-color: rgb(80, 255, 246);
+}
+
+.section-text{
+    margin: 0;
+    color: #3e3e3e;
+    background: white;
+    font-weight: bold;
+    text-align: center;
+}
+.service-content{
+    padding: 0.5em 0;
 }
